@@ -1,5 +1,4 @@
-# Monokai theme optimized for Netbeans IDE
-===============
+# Monokai theme Optimized for Netbeans
 
 Monokai theme **optimized** for the **Netbeans IDE**.
 
@@ -18,7 +17,7 @@ See the previews of the supported languages [here](screenshots/).
 These instructions are for OS X, but on other OS are similar.
 
 1. Open Netbeans IDE
-2. [Download here](archive/master.zip) the latest version of the theme
+2. [Download here](https://github.com/ccarnino/MonokaiNetbeans/archive/master.zip) the latest version of the theme
 3. Extract the archive
 4. On the navigation bar, click Netbeans > Preferences
 5. Open the tab Fonts & Colors
