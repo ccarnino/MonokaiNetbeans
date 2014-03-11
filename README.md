@@ -4,7 +4,7 @@ Monokai theme **optimized** for the **Netbeans IDE**.
 
 At the moment the programming languages and files 100% supported are: 
 
-- Php, Js, Html, Css, Less
+- Php, Js, Html, Css, Less, Txt, Ini
 - Others languages should be fine, but them have not optimized by me.
 
 
