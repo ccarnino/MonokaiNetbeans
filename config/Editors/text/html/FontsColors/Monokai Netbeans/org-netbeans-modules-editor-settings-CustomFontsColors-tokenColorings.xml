@@ -18,9 +18,9 @@
     <fontcolor default="whitespace" name="ws"/>
     <fontcolor default="argument" name="operator"/>
     <fontcolor default="entity-reference" name="character"/>
-    <fontcolor name="mod-class" waveUnderlined="red"/>
+    <fontcolor name="mod-class" waveUnderlined="fff92672"/>
     <fontcolor default="default" foreColor="ff628fb5" name="xml-pi"/>
-    <fontcolor default="default" foreColor="black" name="el-delimiter">
+    <fontcolor default="default" foreColor="fff92672" name="el-delimiter">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="default" name="javascript-embedded"/>
